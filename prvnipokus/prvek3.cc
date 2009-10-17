@@ -25,7 +25,7 @@ void Prvek3::initialize() {
 		send(msg, "ven");
 	}
 }
-
+///tady pro zmenu jina zmena
 void Prvek3::handleMessage(cMessage *msg) {
 	// decrement counter and check value.
 	pocitadlo--;
