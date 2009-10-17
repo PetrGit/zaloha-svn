@@ -9,7 +9,7 @@ protected:
 	virtual void initialize();
 	virtual void handleMessage(cMessage *msg);
 };
-
+//akort jsem se pridal tenhle text
 Define_Module(Prvek3)
 ;
 
