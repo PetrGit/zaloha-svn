@@ -12,7 +12,7 @@ protected:
 
 Define_Module(Prvek3)
 ;
-
+//adfakjshfd
 void Prvek3::initialize() {
 
 	pocitadlo = par("limit");
